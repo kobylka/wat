@@ -4,4 +4,4 @@
 
 # APK znajduje się w folderze
 
-<img src="/blob/main/screen_capture.gif" width="250" height="250"/>
+<img src="screen_capture.gif" width="250" height="250"/>
