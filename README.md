@@ -1,7 +1,7 @@
-# Obecne APK w folderze
-
 # Użyłem usługi https://form.io . Darmowa wersja ogranicza liczbę formularzy do 10.
 
 # Komunikuję się z REST API za pomocą zapytań JSON.
 
-![Output sample](https://github.com/kobylka/wat/blob/main/screen_capture.gif)
+# APK znajduje się w folderze
+
+<img src="/blob/main/screen_capture.gif" width="250" height="250"/>
