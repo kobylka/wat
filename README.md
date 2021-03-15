@@ -4,4 +4,4 @@
 
 # Komunikuję się z REST API za pomocą zapytań JSON.
 
-![Output sample](https://github.com/kobylka/wat/screen_capture.gif)
+![Output sample](https://github.com/kobylka/wat/blob/main/screen_capture.gif)
