@@ -2,6 +2,6 @@
 
 # Komunikuję się z REST API za pomocą zapytań JSON.
 
-# APK znajduje się w folderze
+# APK znajduje się w repozytorium
 
 <img src="screen_capture.gif" width="480" height="640"/>
